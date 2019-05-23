@@ -1,3 +1,7 @@
 Creating a new branch is quick
-you not me
+<<<<<<< HEAD
+you and me !
+=======
+you and me ! 
+>>>>>>> fen
 # gitskills
